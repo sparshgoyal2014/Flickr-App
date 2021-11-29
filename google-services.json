@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975063597552",
+    "project_id": "flickrsearch-5de9e",
+    "storage_bucket": "flickrsearch-5de9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975063597552:android:c4e5798167115515065d35",
+        "android_client_info": {
+          "package_name": "com.example.flickrsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975063597552-91dndt4oc21g2oqd4gop9dcbmqduj6bm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVou7sCWEWKEVmc41xezixBesIT1bJwBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975063597552-91dndt4oc21g2oqd4gop9dcbmqduj6bm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
